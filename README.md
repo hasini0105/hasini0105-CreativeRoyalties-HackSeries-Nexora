@@ -16,9 +16,27 @@ Whether it’s a **minimal UI kit**, an **icon pack**, or a **motion design**, c
 
 - ✅ **NFT Minting for Creators**  
   Designers can mint UI kits, icon sets, wireframes, and other digital assets as NFTs using decentralized metadata.
+- ⚖️ **Dispute Resolution via DAO (Future)**  
+  A community-powered DAO system will govern disputes, licensing issues, and platform rules efficiently without expensive legal battles.
+
 
 - 💸 **Automated Royalty Distribution**  
   Built-in smart contracts ensure artists earn royalties every time their work is resold based on their licensing terms.
 
 - 🔁 **Transparent Resale Marketplace**  
   Buyers can purchase and resell assets with full on-chain proof of ownership and built-in creator rights.
+
+  
+---
+
+## 🌍 Why Algorand?
+
+Creative Royalties Everywhere is built on the **Algorand blockchain** for its unique advantages:
+
+- 🌀 **Low gas fees** — enabling microtransactions like royalty payments.  
+- ⚡ **Fast finality** — NFT mints and transfers happen in seconds.  
+- ♻️ **Carbon-neutral** — perfect for the eco-conscious design community.  
+- 🔐 **Smart contract flexibility** — ideal for programmable royalty and licensing systems.
+
+---
+
