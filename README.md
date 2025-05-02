@@ -39,4 +39,21 @@ Creative Royalties Everywhere is built on the **Algorand blockchain** for its un
 - 🔐 **Smart contract flexibility** — ideal for programmable royalty and licensing systems.
 
 ---
+## 📦 Example Use Case
+
+> 💡 A designer uploads a SaaS dashboard UI kit and mints it as a limited-edition collectible NFT.  
+> A buyer purchases it for $20 based on the different licensing terms.  
+> The original designer receives a 10% royalty **automatically** when that buyer resells it later for $100.  
+> Every transaction is visible on the Algorand blockchain — secure, transparent, and permanent.
+
+---
+## 🔐 Smart Contract Features
+
+- Mint NFTs with custom royalty percentages  
+- Handle payments and ownership transfer  
+- Enforce royalty payouts on secondary sales  
+- Link to IPFS metadata for authenticity  
+- Fully on-chain ownership history tracking
+
+---
 
