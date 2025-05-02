@@ -65,11 +65,15 @@ Creative Royalties Everywhere is built on the **Algorand blockchain** for its un
 
 ---
 
+
+FAIR MONETIZATION 
+TRUE OWNERSHIP
+POWERED BY **ALGORAND**
+
 ## 📬 Contact
 
 Feel free to reach out on GitHub or email: **lingoluchandrahasini@gmail.com** 
 
 
 > _Creative Royalties Everywhere — where creativity meets code, ownership, and value._
-
 
