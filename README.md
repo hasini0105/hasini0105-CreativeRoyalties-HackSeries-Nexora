@@ -56,4 +56,20 @@ Creative Royalties Everywhere is built on the **Algorand blockchain** for its un
 - Fully on-chain ownership history tracking
 
 ---
+## 🎯 Future Enhancements
+
+- 🏛️ DAO-based governance for licensing disputes  
+- 🧑‍🎨 Verified creator badges and portfolios  
+- 📈 Analytics dashboard for creators    
+
+
+---
+
+## 📬 Contact
+
+Feel free to reach out on GitHub or email: **lingoluchandrahasini@gmail.com** 
+
+
+> _Creative Royalties Everywhere — where creativity meets code, ownership, and value._
+
 
